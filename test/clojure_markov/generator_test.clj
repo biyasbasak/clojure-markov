@@ -1,6 +1,6 @@
-(ns clojure-markov.core-test
+(ns clojure-markov.generator-test
   (:require [clojure.test :refer :all]
-            [clojure-markov.core :refer :all]))
+            [clojure-markov.generator :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
